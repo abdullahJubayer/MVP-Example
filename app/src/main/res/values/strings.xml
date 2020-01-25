@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP Practice</string>
+    <string-array name="cityName">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Barishal</item>
+        <item>Khulna</item>
+    </string-array>
+</resources>
